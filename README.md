@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vajapu
+- 👋 Hi, I’m Udaya Vajapu
 - 👀 I’m interested in Mobile Development and Testing
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on mobile application development
